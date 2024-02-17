@@ -1,6 +1,6 @@
 import streamlit 
 
-
+import snowflake.connector
 
 streamlit.title('I am hungry a lot today and what about you? ')
 
